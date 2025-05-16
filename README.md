@@ -15,7 +15,7 @@
 
 
 - 🔭 Hoje estou cursando Análise Desenvolvimento de Sitemas ...
-- 🌱 estudando Html, Css, Javascript, Banco de dados, JAVA Orientado ao Objeto e Estrutura em C..
+- 🌱 estudando Html, Css, Javascript, Banco de dados, JAVA Orientado ao Objeto e Estrutura em C, Javascript e Python...
 
 ##  📊 **Status do Github**
 <div align="center">  
