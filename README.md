@@ -14,8 +14,7 @@
 [![Vicente Freitas gráfico de atividades do github](https://github-readme-activity-graph.vercel.app/graph?username=VicenteVJ&bg_color=0d1117&color=950101&line=950101&point=950101&area=true&border_color=950101)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-- 🔭 Hoje estou cursando Análise Desenvolvimento de Sitemas ...
-- 🌱 estudando Html, Css, Javascript, Banco de dados, JAVA Orientado ao Objeto e Estrutura em C, Javascript e Python...
+- 🌱 Estudando Html, Css, Javascript, Banco de dados, JAVA Orientado ao Objeto e Estrutura em C, Javascript e Python...
 
 ##  📊 **Status do Github**
 <div align="center">  
